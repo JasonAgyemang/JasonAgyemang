@@ -98,7 +98,8 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 
 ###  Car Optimization Problem
 
-## Sample Code of Setting up Constraints for 
+## Sample Code of Setting up Constraints Car Optimization Problem
+![CarOptimization](https://github.com/JasonAgyemang/JasonAgyemang/blob/main/SettingUpConstraints%20.png?raw=true)
 
 
 
