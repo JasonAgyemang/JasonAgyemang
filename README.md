@@ -102,6 +102,8 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 ![CarOptimization](https://github.com/JasonAgyemang/JasonAgyemang/blob/main/SettingUpConstraints%20.png?raw=true)
 
 
+<b> Whole Code for Car Optimization Problem</b>: [Kindbody]()
+
 
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35" alt="Back to Top">](#top)
