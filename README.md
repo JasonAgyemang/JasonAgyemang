@@ -1,7 +1,6 @@
 # Jason-Agyemang-Portfolio
 
-# Headshot
-![Picture of Me](https://github.com/Jage73/Jason-Agyemang-Portfolio/blob/main/IMG_2092.jpg?raw=true)
+
 
 <a name="top"></a>
 <hr>
@@ -86,6 +85,10 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 ![Patients](https://github.com/Jage73/Jason-Agyemang-Portfolio/blob/main/Patients.png?raw=true)
 
 <b> Kindybody Conversion Rates PowerPoint</b>: [Kindbody](https://denveru-my.sharepoint.com/:p:/r/personal/jay_agyemang_du_edu/_layouts/15/Doc.aspx?sourcedoc=%7BB35A5221-1EF5-487A-95AB-6435ED42DC69%7D&file=a_Propensitytoact_brief.pptx&action=edit&mobileredirect=true)</i>
+
+### Denver Hotel Reviews Sentiment Analysis 
+
+
 
 
 
