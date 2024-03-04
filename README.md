@@ -105,6 +105,17 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 <b> Whole Code for Car Optimization Problem</b>: [Cars](Homework2py.html)
 
 
+|  Relevant Business Analytics Classes | Technical Skill| Takeways  |
+| -------- | -------- | -------- |
+| Info 3100 Automating Business Process | Python,Excel,VBA |Learn to create impactful data summaries, pivot tables, and conduct basic statistical tests with Python for informed decision-making. |
+| Info 3330 Data Warehousing | SQL Server,Power BI,Visual Studio  | Equipped me to develop strategic data models, integrating diverse information into unified databases, and crafting insightful management reports for informed decision-making.
+| Info 3340 Project Management and Simulation  | Monte Carlo Simulation,Excel |Empowered me effectively contribute to and lead projects, make informed decisions on when to apply project management principles, and adeptly utilize Monte Carlo simulation modeling for solving business problems. |
+| Info 3200 Data Minning & Visualization  | JMP,Tableau,R |Equipped me with skills in storytelling with data, prediction modeling, and presenting statistical results, covering the entire modeling process and various techniques such as Time Series Forecasting, Clustering |
+| Info 3400 Complex Data Analytics | Alteryx, Node XL |Provided a comprehensive understanding of big data project considerations, covering technical aspects such as text analytics, natural language processing, social network analysis, and social media analysis, with a focus on integrating disparate data sources for insightful business decisions. |
+
+
+
+
 
 
 
@@ -114,6 +125,17 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 <hr>
 
 ## Work Experience
+
+<b>Posterity Health </b>Denver, CO
+Data Analyst Intern – Greenwood Village 	July 2022- September 2022
+•	Utilized advanced Excel skills for insightful data entry and analysis, unraveling the ROI of hormone therapy patients
+•	Crafted dynamic PowerPoint presentations to showcase compelling reports on patient conversion rates
+•	Delivered impactful data findings on conversion rates and hormone therapy to key stakeholders
+
+
+
+
+
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35" alt="Back to Top">](#top)
 
