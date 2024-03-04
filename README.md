@@ -88,7 +88,12 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 
 ### Denver Hotel Reviews Sentiment Analysis 
 
+![HotelSentimentAnalysis](https://github.com/JasonAgyemang/JasonAgyemang/blob/main/SentimentTopicModel5.png?raw=true)
 
+
+
+
+![WordCloudofHotel Reviews](https://github.com/JasonAgyemang/JasonAgyemang/blob/main/SentimentTopicModel5.png?raw=true)
 
 
 
