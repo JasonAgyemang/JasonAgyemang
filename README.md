@@ -102,7 +102,9 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 ![CarOptimization](https://github.com/JasonAgyemang/JasonAgyemang/blob/main/SettingUpConstraints%20.png?raw=true)
 
 
-<b> Whole Code for Car Optimization Problem</b>: [Kindbody]()
+<b> Whole Code for Car Optimization Problem</b>: [Cars](Homework2py.html)
+
+
 
 
 
