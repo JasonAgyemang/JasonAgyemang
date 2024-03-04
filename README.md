@@ -92,10 +92,13 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 
 
 
+## Word Cloud of Denver Hotel Reviews 
+![WordCloudofHotel Reviews](https://github.com/JasonAgyemang/JasonAgyemang/blob/main/Denver%20Hotels%20World%20Cloud%20.png?raw=true)
 
-![WordCloudofHotel Reviews](https://github.com/JasonAgyemang/JasonAgyemang/blob/main/SentimentTopicModel5.png?raw=true)
 
+###  Car Optimization Problem
 
+## Sample Code of Setting up Constraints for 
 
 
 
