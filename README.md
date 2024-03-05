@@ -1,4 +1,4 @@
-# Jason-Agyemang-Portfolio
+# Jason Agyemang-Portfolio
 
 
 
@@ -147,6 +147,8 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 
 **Projects:** Propensity to Act, Return On Investment for Hormone Therpay
 
+**Soft Skills:** Strategic Thinking, Stakholder Communication,Insightful Reporting, Presenting 
+
 
 - 	Utilized advanced Excel skills for insightful data entry and analysis, unraveling the ROI of hormone therapy patients
 - Crafted dynamic PowerPoint presentations to showcase compelling reports on patient conversion rates which provided insight that patients with morphology issues often decline service
@@ -157,6 +159,7 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 
 **Position:** Customer Service Associate  
 **Duration:** September 2020-June 2022 
+**Soft Skills:** Customer Service,Efficiency,Organization,Communication
 
 
 - Fostered an inclusive and welcoming atmosphere for all, cultivating a sense of hospitality.
@@ -174,6 +177,8 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 
 **Technology:** Excel, JMP, ArcGIS
 
+**Soft Skills:** Analytical Thinking,Adaptabiltiy,Collaboration
+
 
 
 
@@ -185,20 +190,21 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 
 ## U.S. Census Bureau| Denver, CO
 
-**Position:** Researcher 
+**Position:** Enumerator
 
-**Duration:** June 2021- August 2021
+**Duration:** June 2020- Septmeber 2020
 
-**Projects:** Specfic Leaf Area Relations to Dams
+**Project:** U.S. Census 
 
-**Technology:** Excel, JMP, ArcGIS
-
-
+**Soft Skills:** Leadership,Communication,Empathy,Community Engagement 
 
 
-- 	Harvested 1020 Russian Olive leaf samples from diverse Colorado parks.
-- 	Employed JMP and Excel for precise interpretation and analysis, elevating data accuracy.
-- 	Presented insightful findings to the SRI Committee, enhancing their understanding of functional ecology
+
+
+- 	Led a proactive outreach initiative in Denver to engage marginalized communities typically underrepresented in the Census, ensuring their fair access to a significant $675 billion federal funds allocation.
+- 	Played a pivotal role in bridging the information gap, enhancing understanding among respondents and facilitating their active involvement in the Census process.
+- 	Conducted insightful interviews with community members, effectively communicating the importance of Census participation and addressing any inquiries to boost awareness and cooperation.
+
 
 
 
