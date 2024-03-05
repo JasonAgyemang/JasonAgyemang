@@ -126,11 +126,86 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 
 ## Work Experience
 
-<b>Posterity Health </b>Denver, CO
-Data Analyst Intern – Greenwood Village 	July 2022- September 2022
-•	Utilized advanced Excel skills for insightful data entry and analysis, unraveling the ROI of hormone therapy patients
-•	Crafted dynamic PowerPoint presentations to showcase compelling reports on patient conversion rates
-•	Delivered impactful data findings on conversion rates and hormone therapy to key stakeholders
+
+## Denver Broncos SMC | Denver, CO
+
+**Position:** Guest Relations  
+**Duration:** August 2023 – Present
+
+- Deliver unparalleled guest experiences at Empower Field at Mile High by seamlessly scanning 76,000 tickets, infusing each interaction with genuine warmth and a welcoming smile.
+- Proactively address fan conduct issues, ensuring a positive atmosphere.
+- Diligently monitor and report maintenance concerns, contributing to the overall excellence of the venue.
+
+
+## Posterity Health | Denver, CO
+
+**Position:** Data Analyst Intern 
+
+**Duration:** July 2022 – September 2022
+
+**Technology:** Excel,Powerpoint,Tableau
+
+**Projects:** Propensity to Act, Return On Investment for Hormone Therpay
+
+
+- 	Utilized advanced Excel skills for insightful data entry and analysis, unraveling the ROI of hormone therapy patients
+- Crafted dynamic PowerPoint presentations to showcase compelling reports on patient conversion rates which provided insight that patients with morphology issues often decline service
+- Delivered impactful data findings on conversion rates and Hormone Therapy ROI to key stakeholders then used in venture capital pitch
+
+  
+## University of Denver Morgridge College of Education| Denver, CO
+
+**Position:** Customer Service Associate  
+**Duration:** September 2020-June 2022 
+
+
+- Fostered an inclusive and welcoming atmosphere for all, cultivating a sense of hospitality.
+- Contributed to the impeccable upkeep and aesthetics of the facility.
+- Managed inventory, ensuring the seamless restocking of kitchen and office supplies for optimal operational efficiency.
+
+
+## Summer Research Initiative| Denver, CO
+
+**Position:** Researcher 
+
+**Duration:** June 2021- August 2021
+
+**Projects:** Specfic Leaf Area Relations to Dams
+
+**Technology:** Excel, JMP, ArcGIS
+
+
+
+
+- 	Harvested 1020 Russian Olive leaf samples from diverse Colorado parks.
+- 	Employed JMP and Excel for precise interpretation and analysis, elevating data accuracy.
+- 	Presented insightful findings to the SRI Committee, enhancing their understanding of functional ecology
+
+
+
+## U.S. Census Bureau| Denver, CO
+
+**Position:** Researcher 
+
+**Duration:** June 2021- August 2021
+
+**Projects:** Specfic Leaf Area Relations to Dams
+
+**Technology:** Excel, JMP, ArcGIS
+
+
+
+
+- 	Harvested 1020 Russian Olive leaf samples from diverse Colorado parks.
+- 	Employed JMP and Excel for precise interpretation and analysis, elevating data accuracy.
+- 	Presented insightful findings to the SRI Committee, enhancing their understanding of functional ecology
+
+
+
+
+
+
+
 
 
 
