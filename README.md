@@ -131,6 +131,7 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 
 **Position:** Guest Relations  
 **Duration:** August 2023 – Present
+**Soft Skills:** Conflict Resolution,Teamwork,Effective Communication, Proactivity 
 
 - Deliver unparalleled guest experiences at Empower Field at Mile High by seamlessly scanning 76,000 tickets, infusing each interaction with genuine warmth and a welcoming smile.
 - Proactively address fan conduct issues, ensuring a positive atmosphere.
@@ -223,4 +224,3 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 
 
 
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35" alt="Back to Top">](#top)
