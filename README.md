@@ -42,7 +42,6 @@ Bachelor of Science Business Administration – Business Information and Analyti
 ### Contact Information
 <b>Email</b>:jagyemang995@gmail.com
 
-<b>Phone Number</b>: 720-451-9743
 
 <b>LinkedIn</b>: [LinkedIn](https://www.linkedin.com/in/jasonagyemang/)</i>
 
