@@ -60,7 +60,8 @@ Analyzed 1,020 leaf samples with JMP/Excel to reveal how dams alter tree physiol
 ### 🏥 Patient Treatment Propensity Analysis  
 Uncovered patterns in 400+ patient records to predict treatment likelihood—boosting targeting accuracy by 15%.  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JasonAgyemang/patient-treatment-analysis/main/a_Propensitytoact_brief.png" alt="Propensity Report Sample" width="600"/>
+ <img src="https://github.com/Jage73/Jason-Agyemang-Portfolio/blob/main/Patients.png?raw=true" alt="Patients" width="600"/>
+
 </p>
 
 ---
