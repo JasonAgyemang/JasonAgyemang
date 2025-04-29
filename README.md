@@ -3,7 +3,8 @@
 ---
 
 ## 🧠 Welcome!
-I'm Jason Agyemang — a passionate Data Analyst adept at Python, SQL, Excel, Power BI, and Tableau. I turn complex data into actionable insights across healthcare, sports, and environmental research.
+I'm Jason Agyemang — Proven Data Analyst with a track record of delivering insightful analysis and presentations at Posterity Health adept in Microsoft Excel, SQL, Python, Tableau,and Power BI. Skilled in blending technical prowess with exceptional interpersonal skills to drive positive outcomes.Enthusiastic about collaborating closely with business teams, I aim to help them understand insights, solve problems, and enhance their value through a blend of technical expertise and communication skills.
+.
 
 ---
 
@@ -102,7 +103,6 @@ June 2024 • GPA: 3.87
 <a name="contact"></a>
 ## 📬 Contact
 
-- 📧 jagyemang995@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jasonagyemang/)  
 - 💻 [GitHub](https://github.com/JasonAgyemang)
 
