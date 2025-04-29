@@ -4,7 +4,7 @@
 
 ## 🧠 Welcome!
 I'm Jason Agyemang — Proven Data Analyst with a track record of delivering insightful analysis and presentations at Posterity Health adept in Microsoft Excel, SQL, Python, Tableau,and Power BI. Skilled in blending technical prowess with exceptional interpersonal skills to drive positive outcomes.Enthusiastic about collaborating closely with business teams, I aim to help them understand insights, solve problems, and enhance their value through a blend of technical expertise and communication skills.
-.
+
 
 ---
 
