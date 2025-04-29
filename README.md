@@ -52,7 +52,7 @@ Used NLP to capture investor mood swings after the Schwab–TD deal, surfacing k
 ### 🌿 Russian Olive SLA Study  
 Analyzed 1,020 leaf samples with JMP/Excel to reveal how dams alter tree physiology—informing habitat management.  
 <p align="center">
- ![Poster](https://github.com/Jage73/Jason-Agyemang-Portfolio/blob/main/RussianLeaves.png?raw=true)
+  <img src="https://github.com/Jage73/Jason-Agyemang-Portfolio/blob/main/RussianLeaves.png?raw=true" alt="Specific Leaf Area Poster" width="600"/>
 </p>
 
 ---
