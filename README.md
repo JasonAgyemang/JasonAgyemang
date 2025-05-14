@@ -34,11 +34,11 @@ I'm Jason Agyemang — Proven Data Analyst with a track record of delivering ins
 
 ---
 
-### 🏀 NBA DraftKings Fantasy Optimizer  
-Built a Python/pyomo model that maximized DFS lineups under a \$50K cap—delivering a 12% lift over average picks.  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JasonAgyemang/NBA-DraftKings-Fantasy-/main/DKSalaries.png?raw=true" alt="DFS Optimizer" width="600"/>
-</p>
+### 📊 Adventure Works Power BI Report
+
+Designed a professional, multi-page Power BI dashboard for the fictional Adventure Works company, offering deep insights into sales, product performance, customer behavior, and regional trends. Optimized for executive-level decision-making with clean design and interactive filters.
+
+<p align="center"> <img src="exec_dashboard.png" alt="Executive Dashboard" width="600"/> </p>
 
 ---
 
